@@ -1,0 +1,9 @@
+.MadForm{
+    height: 500px;
+    width: 100%;
+    background-color: rgb(196, 245, 229);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
